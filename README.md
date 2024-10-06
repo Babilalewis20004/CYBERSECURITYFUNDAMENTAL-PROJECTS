@@ -1,16 +1,34 @@
-## Hi there 👋
+# Cybersecurity Student (CO-grammar)
 
-<!--
-**Babilalewis20004/Babilalewis20004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+This project is part of my coursework in cybersecurity. It aims to demonstrate my understanding of various cybersecurity principles, coding in Python and practices through practical implementation.
 
-Here are some ideas to get you started:
+## Table of Contents
+- Introduction
+- Project Objectives
+- Technologies Used
+- Setup Instructions
+- Usage
+- Project Structure
+- Contributions
+- License
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Introduction
+This project focuses on implementing a secure web application that includes features such as user authentication, data encryption, and protection against common web vulnerabilities.
+
+## Project Objectives
+- Implement secure user authentication and authorization.
+- Encrypt sensitive data stored in the database.
+- Protect the application against SQL injection, XSS, and CSRF attacks.
+- Conduct a security audit and generate a report.
+
+## Technologies Used
+- Programming Language: Python
+- Framework: Flask
+- Database: SQLite
+- Encryption: AES (Advanced Encryption Standard)
+
+
+
+
+

@@ -1,4 +1,4 @@
-# Cybersecurity Student (CO-grammar)
+# Cybersecurity Student (CO-grammar/Kingston university )
 
 ## Overview
 This project is part of my coursework in cybersecurity. It aims to demonstrate my understanding of various cybersecurity principles, coding in Python and practices through practical implementation.

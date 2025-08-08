@@ -1,0 +1,17 @@
+  3 signs of illegitimate email.
+- Email address: the sender's email address "fruad_servces@bank.com" contains spelling errors and unusual formatting, which is a red flag.
+- Urgency and Threat: Genuine banks typically do not create a sense of urgency or threaten immediate consequences via email.
+- Attachments: Legitimate institutions usually direct you to their official website for forms and do not send them as zip file attachments, especially without prior notification.
+  
+  It is possible your computer is infected with malware. 
+  The zip folder could have contained a malicious file disguised as a PDF. 
+  When you opened it, the malware could have executed, compromising your system and causing the slowdown you experienced.
+  
+
+   Education and awareness about cyber crime.
+       Phishing and social engineering are common tactics used by cybercriminals to trick individuals into revealing sensitive information or performing actions that compromise security. 
+       Phishing attacks often come as seemingly legitimate emails, urging you to act quickly. They may contain links to fake websites or attachments with malicious software. 
+       To avoid falling victim, always scrutinize the sender's email address for errors, be wary of unsolicited attachments, and avoid clicking on links from unknown sources. 
+       Verify the authenticity of urgent requests by contacting the institution directly through official channels. 
+       Moreover, keep your software updated and use antivirus programs to detect and prevent malware infections. 
+       Training and awareness are crucial; by staying informed and cautious, you can significantly reduce the risk of cyber threats. Stay vigilant and think before you click.

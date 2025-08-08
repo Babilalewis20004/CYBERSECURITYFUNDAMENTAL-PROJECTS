@@ -1,0 +1,20 @@
+1.) Web 1.0 is often referred to as the "read-only web," where users could only view static content. It was mainly about browsing and consuming information1.
+
+Web 2.0 introduced interactivity and user-generated content. This era saw the rise of social media, blogs, and websites that allowed users to interact, share, and collaborate1.
+
+Web 3.0, or Web3, is the next evolution, focusing on decentralization, openness, and greater user utility. It leverages technologies like blockchain and artificial intelligence to create a more user-centric and decentralized web.
+
+2.) The front end is what users see and interact with directly. It includes the design, layout, colors, buttons, and overall user experience (UX)3. Front-end developers use languages like HTML, CSS, and JavaScript to create these visual elements.
+
+The back end, on the other hand, is the server-side part of the application that users don't see. It handles the logic, database interactions, user authentication, and server configuration3. Back-end developers work with server-side languages like Python, Ruby, PHP, and databases like MySQL or MongoDB.
+
+3.) 
+DNS Lookup: The browser queries a Domain Name System (DNS) server to translate the URL into an IP address.
+
+HTTP Request: The browser sends an HTTP request to the web server at the IP address.
+
+Server Processing: The server processes the request, retrieves the necessary data from the database or files, and prepares an HTTP response.
+
+Response: The server sends the HTTP response back to the browser.
+
+Rendering: The browser receives the response and renders the HTML, CSS, and JavaScript to display the web page

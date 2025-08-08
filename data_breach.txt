@@ -1,0 +1,10 @@
+1.)A data leak occurs when sensitive data is accidentally exposed in some way.
+2.)These leaks put personal information such as email addresses, passwords, or even banking information into the hands of cyber criminals without any consent or effort.
+3.)After discovering a personal data breach, an important step we recommend is completing a risk assessment. You’ll need to think about what personal information is involved in the breach, 
+the number of people who will be affected and what harm may come to them as a result of the breach.
+ACTIONS(Response to data breach)
+-A breach is only reportable to the ICO under data protection law if personal information is involved and if it puts people at risk. But even if the personal data breach isn’t reportable, 
+you should still continue with your risk assessment and put processes in place to help prevent it from happening again.(ICO, 30 August 2023).
+-You should regularly get a copy of your credit file.
+-If you have been affected by a data breach that leaked your personal or financial details, monitor your credit file and bank accounts regularly for any unusual activity.
+-An identity protection service such as ProtectMyID monitors your Experian credit report and alerts you by email or SMS to potential fraudulent activity.
